@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    //这是通过Soercetree 添加的
+    //这是通过Soercetree 添加的好的
     // Do any additional setup after loading the view, typically from a nib.
 }
 
