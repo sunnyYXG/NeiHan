@@ -28,7 +28,6 @@ PODS:
   - SDWebImage (4.0.0):
     - SDWebImage/Core (= 4.0.0)
   - SDWebImage/Core (4.0.0)
-  - UMengSocialCOM (5.2.1)
   - YYText (1.0.7)
 
 DEPENDENCIES:
@@ -39,7 +38,6 @@ DEPENDENCIES:
   - MJRefresh
   - ReactiveCocoa (= 2.5)
   - SDWebImage
-  - UMengSocialCOM
   - YYText
 
 SPEC CHECKSUMS:
@@ -50,9 +48,8 @@ SPEC CHECKSUMS:
   MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
   ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
   SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
-  UMengSocialCOM: 074c135ce349aa4c8848d3fb8458757bcb6ffb67
   YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
 
-PODFILE CHECKSUM: e9c50ca6e424449c494926c266db30a7d04b52d8
+PODFILE CHECKSUM: a2f07d96647755afb4a269d8037555081aebaf14
 
 COCOAPODS: 1.2.0
